@@ -22,18 +22,18 @@ Installation
 To get started with the Cash Counter App:
 
 Clone the Repository:
-git clone https://github.com/username/cash-counter-app.git
+     git clone https://github.com/username/cash-counter-app.git
 
 Navigate to the Project Directory:
-cd cash-counter-app
+    cd cash-counter-app
 
 Install Dependencies:
 Make sure you have Flutter installed. Then run:
-flutter pub get
+     flutter pub get
 
 Run the App:
 To run the app on a connected device or emulator, use:
-flutter run
+     flutter run
 
 Usage
 Open the app and use the input fields to enter the quantity of each denomination.
@@ -44,7 +44,7 @@ Contributing
 If you'd like to contribute to the Cash Counter App, please fork the repository and submit a pull request with your changes. Ensure that your code follows the project's coding standards and includes tests where applicable.
 
 License
-This project is licensed under the MIT License 
+This project is licensed under the MIT License- see the LICENSE file for details.
 
 Contact
 For any questions or feedback, please reach out to email praveenbiradar549@gmail.com.
