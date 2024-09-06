@@ -56,7 +56,7 @@ To get started with the Cash Counter App:
 - The total amount will be automatically calculated and displayed.
 - Access the drawer menu by tapping the menu icon in the app bar to navigate to different sections of the app.
 - 
-[Download the demo video](https://youtube.com/shorts/p0Eh2-_bIyU?feature=share)
+  [Watch the demo video](https://youtube.com/shorts/p0Eh2-_bIyU?feature=share)
 
 ## Contributing
 
