@@ -55,6 +55,8 @@ To get started with the Cash Counter App:
 - Open the app and use the input fields to enter the quantity of each denomination.
 - The total amount will be automatically calculated and displayed.
 - Access the drawer menu by tapping the menu icon in the app bar to navigate to different sections of the app.
+- 
+[Download the demo video](https://youtube.com/shorts/p0Eh2-_bIyU?feature=share)
 
 ## Contributing
 
